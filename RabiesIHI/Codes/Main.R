@@ -165,7 +165,6 @@ text(0.5, wildlife_R+0.1, labels=round(wildlife_R,2))
 
 
 
-####
 
 
 
